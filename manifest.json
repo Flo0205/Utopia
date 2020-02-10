@@ -1,0 +1,559 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/Dennis/Desktop/Utopia/DocFX/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.API.UtopiaMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.API.UtopiaMap.html",
+          "hash": "XsomEr8eEXU1pgJRo5LrMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.API.UtopiaPlayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.API.UtopiaPlayer.html",
+          "hash": "aJptluSAMAdoWa+KDZFxfg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.API.UtopiaRound.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.API.UtopiaRound.html",
+          "hash": "cc0czQ8BMFgs6PQqUqVJPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.API.UtopiaServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.API.UtopiaServer.html",
+          "hash": "OSgw2avleI/3DwFKqL8Nbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.API.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.API.html",
+          "hash": "uj035UldbcHseCR/WyXKBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.Plugin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.Plugin.html",
+          "hash": "xo5/yt4NoFdMD4/nKk4pHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.On914Activate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.On914Activate.html",
+          "hash": "9rVZy9OAuuVmC1h5LesRdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnAltSpeak.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnAltSpeak.html",
+          "hash": "SDuCW9SJ2cfv7MAuC71QZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnLczDecontain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnLczDecontain.html",
+          "hash": "iaC/tB622n14tGf4m1/obw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerAwake.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerAwake.html",
+          "hash": "+CqZJ27/pGgmyvB2rZtHkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerClassChangePostFix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerClassChangePostFix.html",
+          "hash": "0ydh2D79BoeYYomeC7hvTA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerClassChangePreFix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerClassChangePreFix.html",
+          "hash": "mi8x4/0sH7b9ab0+8mI3Dw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerDeath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerDeath.html",
+          "hash": "kaH0+u7mGD1XKSaJ8VgYuA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerShoot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerShoot.html",
+          "hash": "fwaOew8AH/VWdeISW/iCZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerStart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnPlayerStart.html",
+          "hash": "Cy+oJozD2SgwZrG8HOBQAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnRoundEnd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnRoundEnd.html",
+          "hash": "EjK7rstbKSD6v5xHQdPoCg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnRoundStart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnRoundStart.html",
+          "hash": "liDZ74sBjeCeYChX93K3/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnScp106PlacePortal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnScp106PlacePortal.html",
+          "hash": "FeE4aEDHxU4dS5TRl9fAgA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnTeslaDamage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnTeslaDamage.html",
+          "hash": "ynEQhSa7ZZbOcBD8sN/KNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnWaitingForPlayers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnWaitingForPlayers.html",
+          "hash": "AEMpOec34B4/wtcY/NuodQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnWarheadStartDetonation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.OnWarheadStartDetonation.html",
+          "hash": "VJC63pQkTuvL0/ikj3U2JQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.ScpSlCore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.ScpSlCore.html",
+          "hash": "caE+nWu+HCemcQ7p83iVjQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Base.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Base.html",
+          "hash": "eYHwCK/cb8LUgZASyEHrlQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Commands.Command.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Commands.Command.html",
+          "hash": "/4zufmXTGVXkox162z/1NQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Commands.CommandHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Commands.CommandHandler.html",
+          "hash": "aHK+nZeo4df1gGQthkT5UA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Commands.CommandResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Commands.CommandResult.html",
+          "hash": "tP8YVUIGqDqjSuMLBgzBow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Commands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Commands.html",
+          "hash": "OzVM3HAMaxYh8bPiC2CJSQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Permission.PermissionManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Permission.PermissionManager.html",
+          "hash": "4ok+FaXU6BWrmcZ8rtnB9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utopia.Extensions.Permission.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utopia.Extensions.Permission.html",
+          "hash": "waWwzl8/4odNknJZ9tLNPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "01Kxs5WWlnGMUWENM2Vr3A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "j8U1uuZS2YMPDG64pPd5rQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/basic.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/basic.html",
+          "hash": "os6m2/mSUmsMDmB3AhXcGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "S9xWS59wuX/i0fnoHPY6/g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "NRWlqOvJIt6waJU7arjAoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/basic_step_1.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/basic_step_1.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/basic_step_2.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/basic_step_2.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/basic_step_3_1.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/basic_step_3_1.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/basic_step_3_2.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/basic_step_3_2.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/basic_step_4_1.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/basic_step_4_1.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/basic_step_4_2.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/basic_step_4_2.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "3tjv6bSP9qvNOrspcs1aTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 4
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 29,
+          "skipped_file_count": 29
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
