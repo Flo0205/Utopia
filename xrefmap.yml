@@ -548,6 +548,12 @@ references:
   isSpec: "True"
   fullName: Utopia.Extensions.Base.Plugin.Plugin
   nameWithType: Plugin.Plugin
+- uid: Utopia.Extensions.Base.Plugin.data
+  name: data
+  href: api/Utopia.Extensions.Base.Plugin.html#Utopia_Extensions_Base_Plugin_data
+  commentId: F:Utopia.Extensions.Base.Plugin.data
+  fullName: Utopia.Extensions.Base.Plugin.data
+  nameWithType: Plugin.data
 - uid: Utopia.Extensions.Base.Plugin.pluginconfigpath
   name: pluginconfigpath
   href: api/Utopia.Extensions.Base.Plugin.html#Utopia_Extensions_Base_Plugin_pluginconfigpath
